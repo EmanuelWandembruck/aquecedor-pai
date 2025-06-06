@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aquecedores Domésticos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #005f73;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        main {
+            padding: 30px;
+            background-color: #e0f7fa;
+        }
+
+        h1, h2 {
+            color: #023047;
+        }
+
+        p {
+            color: #333;
+        }
+
+        .info-box {
+            background-color: #ffffff;
+            padding: 20px;
+            margin-top: 20px;
+            border-left: 5px solid #ffb703;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            background-color: #005f73;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Aquecedores Domésticos</h1>
+        <p>Conforto e eficiência para sua casa</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>O que é um aquecedor?</h2>
+            <p>Um aquecedor é um dispositivo usado para aquecer ambientes internos, especialmente em dias frios. Eles podem funcionar com eletricidade, gás ou óleo.</p>
+        </section>
+
+        <div class="info-box">
+            <h2>Tipos de Aquecedores</h2>
+            <ul>
+                <li>Elétrico</li>
+                <li>A gás</li>
+                <li>Infravermelho</li>
+                <li>Óleo térmico</li>
+            </ul>
+        </div>
+
+        <section>
+            <h2>Vantagens</h2>
+            <p>Aquecedores proporcionam conforto térmico, ajudam a manter a saúde em ambientes frios e alguns modelos são portáteis e econômicos.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Informações sobre Aquecedores</p>
+    </footer>
+</body>
+</html>

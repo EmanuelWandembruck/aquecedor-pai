@@ -40,45 +40,11 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
-        footer {
-            background-color: #005f73;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            margin-top: 30px;
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 15px;
+            border-radius: 8px;
         }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Aquecedores Domésticos</h1>
-        <p>Conforto e eficiência para sua casa</p>
-    </header>
 
-    <main>
-        <section>
-            <h2>O que é um aquecedor?</h2>
-            <p>Um aquecedor é um dispositivo usado para aquecer ambientes internos, especialmente em dias frios. Eles podem funcionar com eletricidade, gás ou óleo.</p>
-        </section>
-
-        <div class="info-box">
-            <h2>Tipos de Aquecedores</h2>
-            <ul>
-                <li>Elétrico</li>
-                <li>A gás</li>
-                <li>Infravermelho</li>
-                <li>Óleo térmico</li>
-            </ul>
-        </div>
-
-        <section>
-            <h2>Vantagens</h2>
-            <p>Aquecedores proporcionam conforto térmico, ajudam a manter a saúde em ambientes frios e alguns modelos são portáteis e econômicos.</p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 - Informações sobre Aquecedores</p>
-    </footer>
-</body>
-</html>
+        footer {
